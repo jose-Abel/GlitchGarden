@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Atacker.cs" />
     <Compile Include="Assets\Scripts\LevelLoader.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Owner/Unity Projects/Glitch Garden/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
