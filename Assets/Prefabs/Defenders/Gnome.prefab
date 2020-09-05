@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4217781650696792093}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.08, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4217781650742271340}
@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 4217781650742271342}
   - component: {fileID: 4217781650742271329}
   - component: {fileID: 4217781650742271328}
+  - component: {fileID: -225352215986266023}
   m_Layer: 0
   m_Name: Gnome
   m_TagString: Untagged
@@ -150,7 +151,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.006191969, y: 0.022664785}
+  m_Offset: {x: -0.05357659, y: 0.027929902}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -161,7 +162,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.0267673, y: 1.0298352}
+  m_Size: {x: 0.42656207, y: 0.871886}
   m_EdgeRadius: 0
 --- !u!114 &4217781650742271329
 MonoBehaviour:
@@ -191,6 +192,20 @@ MonoBehaviour:
   projectile: {fileID: 7487891746296966507, guid: 0529d6c47347d0945819fb9488a99ad2,
     type: 3}
   gun: {fileID: 5203826882356437473}
+--- !u!114 &-225352215986266023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4217781650742271331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd3a7264aed67604e91a4673dadaa35d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  deathVFX: {fileID: 0}
 --- !u!1 &5203826882356437473
 GameObject:
   m_ObjectHideFlags: 0

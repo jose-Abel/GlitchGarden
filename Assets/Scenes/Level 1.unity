@@ -128,14 +128,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 201043721}
     m_Modifications:
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: minSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: maxSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
     - target: {fileID: 5932144683772438898, guid: 7148c05979eb23141b5736221b325f17,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -237,7 +229,7 @@ Transform:
   - {fileID: 1474013055}
   - {fileID: 1466035164}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &365826381
 GameObject:
@@ -312,14 +304,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 201043721}
     m_Modifications:
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: minSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: maxSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
     - target: {fileID: 5932144683772438898, guid: 7148c05979eb23141b5736221b325f17,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -401,14 +385,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 201043721}
     m_Modifications:
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: minSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: maxSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
     - target: {fileID: 5932144683772438898, guid: 7148c05979eb23141b5736221b325f17,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -484,14 +460,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 201043721}
     m_Modifications:
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: minSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: maxSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
     - target: {fileID: 5932144683772438898, guid: 7148c05979eb23141b5736221b325f17,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -724,7 +692,7 @@ PrefabInstance:
     - target: {fileID: 1490326009414459896, guid: 8c2dfd6eaf932b140a590182dcb4a57d,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1490326009414459896, guid: 8c2dfd6eaf932b140a590182dcb4a57d,
         type: 3}
@@ -824,14 +792,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 201043721}
     m_Modifications:
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: minSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 1466035163, guid: 7148c05979eb23141b5736221b325f17, type: 3}
-      propertyPath: maxSpawnDelay
-      value: 7
-      objectReference: {fileID: 0}
     - target: {fileID: 5932144683772438898, guid: 7148c05979eb23141b5736221b325f17,
         type: 3}
       propertyPath: m_LocalPosition.x
