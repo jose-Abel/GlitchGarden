@@ -5,8 +5,10 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    private void OnTriggerEnter2D()
+    private void OnTriggerEnter2D(Collider2D otherCollider)
     {
       FindObjectOfType<PlayerHealthDisplay>().LosingHealth();
+
+        Destroy(otherCollider.gameObject);
     }
 }

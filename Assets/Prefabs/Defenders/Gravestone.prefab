@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3dd440e73d26b241a8e0b77965f0ba8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  starCost: 150
+  starCost: 80
 --- !u!95 &8326739023493034699
 Animator:
   serializedVersion: 3
@@ -106,7 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd3a7264aed67604e91a4673dadaa35d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 200
+  health: 250
   deathVFX: {fileID: 0}
 --- !u!114 &4684042692409773426
 MonoBehaviour:
