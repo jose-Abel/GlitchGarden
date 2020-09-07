@@ -23,6 +23,8 @@ You can clone this code anytime and open the project with Unity. Also there's a 
 ## Live version
 In the folder "Build for Windows" there is a build version of the game for Windows.
 
+https://quizzical-shaw-4359a5.netlify.app/
+
 ### Setup
 You can either copy the code with git clone or just do a git pull on your local environment.
 
